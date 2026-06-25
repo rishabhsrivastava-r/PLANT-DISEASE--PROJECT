@@ -227,7 +227,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Sharvatosh Pandey**
+**RISHABH SRIVASTAVA**
 
 B.Tech Computer Science & Engineering  
 Shri Ramswaroop Memorial College of Engineering & Management, Lucknow
